@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\akopo\source\repos\DZ_12modul\main\main\Source.cpp(7,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.vcxproj -> C:\Users\akopo\source\repos\DZ_12modul\main\x64\Debug\main.exe
